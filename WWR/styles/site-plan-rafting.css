@@ -7,25 +7,25 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #ffbe0b  ;
-  --secondary-color: #5f5ff6 ;
-  --accent1-color: #fb5607;
+  --primary-color: #7678ed ;
+  --secondary-color: #f7b801 ;
+  --accent1-color: #f27103;
   --accent2-color: white;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "Crimson Text";
-  --paragraph-font: Lato, Crimson Text;
+  --heading-font: "Crimsom Text";
+  --paragraph-font: crimsom Text , serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #5f5ff6;  /* headlines on a white background */ 
-  --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #5f5ff6; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #5f5ff6  ;
-  --nav-link-color: #5f5ff6;
-  --nav-background-color: #ffbe0b;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #5f5ff6;
+  --headline-color-on-white: black;  /* headlines on a white background */ 
+  --headline-color-on-color: #ffffff; /* headlines on a colored background */ 
+  --paragraph-color-on-white: black; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #ffffff; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #7678ed  ;
+  --nav-link-color: #7678ed;
+  --nav-background-color: #f27103;
+  --nav-hover-link-color: #7678ed;
+  --nav-hover-background-color: #f7b801;
 }
 
 
