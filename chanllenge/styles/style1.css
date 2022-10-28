@@ -1,0 +1,25 @@
+
+#background {
+    background-color:gray;
+    height: 725px;
+    text-align: center;
+    
+}
+.desk_card {
+    border: 20px solid #3e3e3e;;
+    border-radius: 50%;
+}
+.graphic_card {
+    border: 20px solid #3e3e3e;;
+    border-radius: 50%;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.person_card {
+    border: 20px solid #3e3e3e;;
+    border-radius: 50%;
+    margin-left: 120px;
+}
+.cirle_card{
+    width: 100%;
+}
