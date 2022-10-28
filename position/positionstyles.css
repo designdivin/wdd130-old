@@ -73,6 +73,7 @@
   /* This is the parent of the activity 3 boxes. */
   display: grid; 
   grid-template-columns: 1fr 1fr;
+  grid-column-gap:20px;
 }
 .red3 {
   width: 100%; 
@@ -82,7 +83,7 @@
  
 } 
 .green3 {
-  width: 450px; 
+  width: 100%; 
   height: 100px; 
   background-color: green;
   grid-column: 1/2;
@@ -90,12 +91,11 @@
   
 } 
 .yellow3 {
-  width: 450px; 
+  width: 100%; 
   height: 100px; 
   background-color: gold; 
-  margin-left: 50px;
   grid-column: 2/3;
-  grid-column-gap:20px;
+  
 } 
 .blue3 {
   width: 100%;
@@ -112,26 +112,26 @@
   display:grid;
 }
 .red4 {
-  width: 500px; 
+  width: 100%; 
   height: 400px; 
   background-color: red; 
   grid-row: 1/4;
   grid-column: 1/2;
 } 
 .green4 {
-  width: 450px; 
+  width: 100%; 
   height: 135px; 
   background-color: green; 
   grid-column: 2/3;
 } 
 .yellow4 {
-  width: 450px; 
+  width: 100%; 
   height: 135px; 
   background-color: gold; 
   grid-column: 2/3;
 } 
 .blue4 {
-  width: 450px; 
+  width: 100%; 
   height: 130px; 
   background-color: blue; 
   grid-column: 2/3;
