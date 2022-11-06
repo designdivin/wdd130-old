@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+h2{
+    color: blue;
+}
+.icon{
+    margin-top: 10px;
+    width: 80px;
+}
+nav{
+    color: #7678ed;
+    background-color:#f7b801;
+    text-align: center;
+    width: 300px;
+}
+.rafting{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+#background{
+    background: black;
+    width: 900px;
+    padding: 30px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    
+    
+}
+.scorpion1{
+    width: 350px;
+    height: 400px;
+    float: right;
+    margin-top: -500px;
+    
+}
+
