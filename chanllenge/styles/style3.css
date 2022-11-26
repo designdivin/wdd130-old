@@ -1,0 +1,27 @@
+body{
+    justify-content: center;
+    display: flex;
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.background{
+    background-color:white;
+    height: 700px;
+    width: 300px;
+    border-radius: 10%;
+    margin-top: 50px;
+    overflow: scroll;
+    
+
+}
+.boxs{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: #7678ed;
+    color: white;
+    margin: auto;
+}
+https://byui.zoom.us/j/8446108277
