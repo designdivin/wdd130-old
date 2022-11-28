@@ -8,6 +8,46 @@
     /* make this element invisible until we are ready for it */
     display: none;      
 }
+footer a:hover {
+
+  background-color: #7678ed;
+  color: #ffffff;
+}
+footer a  {
+  background-color: #7678ed;
+  color: #f27103;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+}  
+footer {
+  text-align: left;
+  background-color: #7678ed;
+  color: #ffffff;
+  margin-top: 200px;
+  padding: 25px 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+} 
+.logo {
+  width: 80px;
+}
+nav a {
+  text-align: center;
+  color: #f27103;
+
+  text-decoration: none;
+  padding: 35px;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+nav a:hover {
+  background-color: #ffffff;
+  color: #f7b801
+}
 .moveDown {
     margin-top: 3em;
 }
